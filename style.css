@@ -271,11 +271,11 @@ h4{
     color: hsl(228, 45%, 44%); 
 }
 
-@media(max-width: 400px){
+@media(max-width: 650px){
     body{
         background-image: url(images/bg-header-mobile.png);
         background-repeat: no-repeat;
-        background-size: 400px 300px;
+        background-size: 650px 300px;
         background-position-y: -40px;
         background-position-x: -10px;
     }
@@ -408,7 +408,7 @@ h4{
     }
     .footer{
         gap: 3em;
-        width: 400px;
+        width: 650px;
     }
     .top-footer{
         flex-direction: column;
